@@ -1,1 +1,1 @@
-redirect: /vinnix/
+Redirect = /vinnix/
