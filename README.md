@@ -1,1 +1,1 @@
-# vinnix.github.io
+redirect: /vinnix/
